@@ -1,0 +1,11 @@
+packages: 
+  # 我负责的所有的 前端项目存储的地方
+  - 'packages/*'
+
+  # vue 公共的组件
+  - 'vue-components/**'
+
+  # 公共的方法
+  - 'api/**'
+
+
